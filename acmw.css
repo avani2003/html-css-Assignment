@@ -1,0 +1,22 @@
+
+<link rel="stylesheet" href="css/style.css" type="text/css"
+
+.cl {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: rgb(208, 217, 233);
+}
+h2{
+    color: rgb(211, 200, 216);
+}
+body{
+    color: rgb(174, 197, 202);
+}
+*{ 
+    background-image: url('DarkBG.jpeg') 
+}
+div.a {
+    font-size: 30px;
+  }
