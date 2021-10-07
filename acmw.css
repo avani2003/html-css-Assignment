@@ -15,7 +15,7 @@ body{
     color: rgb(174, 197, 202);
 }
 *{ 
-    background-image: url('DarkBG.jpeg') 
+    background-image: url('DarkBG.jpeg'); 
 }
 div.a {
     font-size: 30px;
