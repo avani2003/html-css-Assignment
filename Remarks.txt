@@ -1,0 +1,9 @@
+Maybe you haven't uploaded the latest code files you worked on, because I'm not seeing a lot on your website :(
+
+Your CSS file seems to have a stray uncompleted HTML line in the beginning. This is creating errors and won't allow your HTML file to access the CSS properties you defined even though you've linked them.
+
+You had also reached out to me asking why you weren't seeing any background image in your website. You have only uploaded your code files in your repository. You must either include DarkBG.jpg in the repository as well or put the full path to the image in the img tag for it to be included.
+
+Aside from those errors I think that there are a lot more features you could have included in your chosen sections to give a better look and more content to your website.
+
+Keep exploring and experiment with the endless HTML and CSS properties out there! And of course, feel free to ask me if there is something you don't understand or need help with.
